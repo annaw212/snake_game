@@ -111,6 +111,7 @@ void logic() {
           break;
         case 'q':
           game_over = true;
+          break;
       }
     }
 
